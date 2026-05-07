@@ -74,8 +74,8 @@
     <text x="60" y="60"><tspan fill="#F92672">#</tspan><tspan fill="#F8F8F2" font-weight="bold"> Eurípedes Cabral</tspan></text>
 
     <!-- L3-L4: headline -->
-    <text x="60" y="100" fill="#F8F8F2">Software Engineer @ Jobsity (Hibu)</text>
-    <text x="60" y="120" fill="#F8F8F2">Brasília, BR · Remote · Shipping since 2020</text>
+    <text x="60" y="100" fill="#F8F8F2">Senior Frontend / Full Stack Engineer</text>
+    <text x="60" y="120" fill="#F8F8F2">Brasília, BR · Remote · React / React Native / TypeScript</text>
 
     <!-- L6-L8: About header -->
     <text x="60" y="160" fill="#49483e">─────────────────────────────────────────────</text>
@@ -83,22 +83,22 @@
     <text x="60" y="200" fill="#49483e">─────────────────────────────────────────────</text>
 
     <!-- L10-L14: paragraph 1 -->
-    <text x="60" y="240" fill="#F8F8F2">Frontend-leaning full-stack engineer with 5+ years</text>
-    <text x="60" y="260" fill="#F8F8F2">shipping production software across web, mobile and</text>
-    <text x="60" y="280" fill="#F8F8F2">e-commerce stacks. Comfortable end-to-end on React /</text>
-    <text x="60" y="300" fill="#F8F8F2">React Native / Next.js, Node.js / NestJS, with</text>
-    <text x="60" y="320" fill="#F8F8F2">TypeScript as the default everywhere.</text>
+    <text x="60" y="240" fill="#F8F8F2">Senior frontend/full-stack engineer with 6 years</text>
+    <text x="60" y="260" fill="#F8F8F2">building production apps across fintech, e-commerce</text>
+    <text x="60" y="280" fill="#F8F8F2">and SaaS. I ship with React, React Native, Next.js,</text>
+    <text x="60" y="300" fill="#F8F8F2">Node.js / NestJS and TypeScript across web, mobile</text>
+    <text x="60" y="320" fill="#F8F8F2">and API surfaces.</text>
 
     <!-- L16-L19: paragraph 2 -->
-    <text x="60" y="360" fill="#F8F8F2">Day-to-day involves GraphQL / REST APIs, AWS infra,</text>
-    <text x="60" y="380" fill="#F8F8F2">Datadog observability, Auth0, automated testing with</text>
-    <text x="60" y="400" fill="#F8F8F2">Jest + RTL, and integrating AI tooling (Claude Code,</text>
-    <text x="60" y="420" fill="#F8F8F2">Copilot) into the engineering workflow.</text>
+    <text x="60" y="360" fill="#F8F8F2">Fintech experience includes onboarding/KYC flows,</text>
+    <text x="60" y="380" fill="#F8F8F2">EDD compliance workflows and Tax Center interfaces.</text>
+    <text x="60" y="400" fill="#F8F8F2">I work daily with GraphQL / REST APIs, Datadog, tests,</text>
+    <text x="60" y="420" fill="#F8F8F2">Claude Code and GitHub Copilot.</text>
 
     <!-- L21-L23: paragraph 3 -->
-    <text x="60" y="460" fill="#F8F8F2">Past work spans fintech, e-commerce (VTEX IO / FastStore),</text>
-    <text x="60" y="480" fill="#F8F8F2">healthcare and logistics — from greenfield apps to</text>
-    <text x="60" y="500" fill="#F8F8F2">legacy migrations and large-scale refactors.</text>
+    <text x="60" y="460" fill="#F8F8F2">Proof points include Samsung Shop LATAM at 500K+ users,</text>
+    <text x="60" y="480" fill="#F8F8F2">Hibu Google Business Messages in NestJS, and Carrefour /</text>
+    <text x="60" y="500" fill="#F8F8F2">Atacadao Citrus commerce integrations across VTEX stacks.</text>
 
     <!-- L25-L27: Stack header -->
     <text x="60" y="540" fill="#49483e">─────────────────────────────────────────────</text>
@@ -110,10 +110,10 @@
     <text x="60" y="640"><tspan fill="#66D9EF">  language    </tspan><tspan fill="#E6DB74">TypeScript</tspan></text>
     <text x="60" y="660"><tspan fill="#66D9EF">  backend     </tspan><tspan fill="#E6DB74">Node.js</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">NestJS</tspan></text>
     <text x="60" y="680"><tspan fill="#66D9EF">  data        </tspan><tspan fill="#E6DB74">GraphQL</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">Apollo</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">REST</tspan></text>
-    <text x="60" y="700"><tspan fill="#66D9EF">  mobile      </tspan><tspan fill="#E6DB74">Expo</tspan></text>
+    <text x="60" y="700"><tspan fill="#66D9EF">  mobile      </tspan><tspan fill="#E6DB74">Expo</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">App Store</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">Play Store</tspan></text>
     <text x="60" y="720"><tspan fill="#66D9EF">  testing     </tspan><tspan fill="#E6DB74">Jest</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">React Testing Library</tspan></text>
     <text x="60" y="740"><tspan fill="#66D9EF">  infra       </tspan><tspan fill="#E6DB74">AWS</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">Datadog</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">Auth0</tspan></text>
-    <text x="60" y="760"><tspan fill="#66D9EF">  tooling     </tspan><tspan fill="#E6DB74">Claude Code</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">GitHub Copilot</tspan></text>
+    <text x="60" y="760"><tspan fill="#66D9EF">  commerce    </tspan><tspan fill="#E6DB74">VTEX IO</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">FastStore</tspan><tspan fill="#75715E"> · </tspan><tspan fill="#E6DB74">Claude Code</tspan></text>
 
     <!-- L38-L40: Connect header -->
     <text x="60" y="800" fill="#49483e">─────────────────────────────────────────────</text>
